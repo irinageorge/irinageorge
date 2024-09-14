@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Irina – an enthusiastic front-end developer passionate about crafting dynamic and engaging user experiences!
 
-I'm currently working with React, TypeScript, JavaScript, Redux, and I love diving into projects that push me to grow. Over the past year, I've been honing my skills not just in front-end, but also exploring the back-end with MongoDB, PostgreSQL, Mongoose, Express.js, and Next.js.
+I love diving into projects that push me to grow. Over the past year, I've been honing my skills not just in front-end, but also exploring the back-end with MongoDB, PostgreSQL, Mongoose, Express.js, and Next.js.
 
 ### 🧰 Languages and Tools
 
@@ -25,9 +25,9 @@ I'm currently working with React, TypeScript, JavaScript, Redux, and I love divi
 
 # 
 
-I'm no stranger to Firebase, Rowy, and tools like Postman and Insomnia for testing and development workflows. Building intuitive, responsive front-end applications is where I thrive, and each new project fuels my passion for development.
+Building intuitive, responsive front-end applications is where I thrive, and each new project fuels my passion for development.
 
-Currently, I work at IBM, but I never stop learning—I'm taking additional courses to expand my knowledge and stay on the cutting edge of web technologies.
+I never stop learning—I'm taking additional courses ouside my regular job to expand my knowledge and stay on the cutting edge of web technologies.
 
 Let's build something amazing together! 🌟
 
