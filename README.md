@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Irina – an enthusiastic front-end developer passionate about crafting dynamic and engaging user experiences!
 
-I love diving into projects that push me to grow. Over the past year, I've been honing my front-end skills, continuously developing and refining my abilities. Building intuitive, responsive applications is where I thrive, and each new project fuels my passion for development. I'm always eager to learn and improve, constantly exploring new tools and technologies to stay ahead in the ever-evolving web development landscape.
+I love diving into projects that push me to grow. Over the past year, I've been improving my skills, constantly growing and refining them. Building intuitive, responsive applications is where I thrive, and each new project fuels my passion for development. I'm always eager to learn and improve, constantly exploring new tools and technologies to stay ahead in the ever-evolving web development landscape.
 
 Let's build something amazing together! 🌟
 
