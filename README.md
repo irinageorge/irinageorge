@@ -1,8 +1,8 @@
 ## 🏄‍♂️ Hi there, I'm Irina! 
 
-💡 I transitioned from QA & tech support to front-end development, driven by my passion for building interactive and impactful digital experiences.<br/>
-👩‍💻 I specialize in React, TypeScript, JavaScript, and modern web technologies, crafting accessible and high-performance applications.<br/>
-🚀 Currently, I’m a Software Developer at IBM, constantly learning and refining my skills.
+💡 I transitioned from <strong>QA & tech support</strong> to  <strong>front-end development</strong, driven by my passion for building interactive and impactful digital experiences.<br/>
+👩‍💻 I specialize in <strong>React, TypeScript, JavaScript, and modern web technologies.</strong>.<br/>
+🚀 Currently, I’m a <strong>Software Developer at IBM</strong>, constantly learning and refining my skills.
 
 Let's build something amazing together! 🌟
 
